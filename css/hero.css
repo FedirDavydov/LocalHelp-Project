@@ -1,0 +1,48 @@
+.hero-section {
+  margin-bottom: 150px;
+}
+
+.hero-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.button-row {
+  display: flex;
+  align-items: center;
+}
+
+.hero-content {
+  max-width: 650px;
+}
+
+.button-row-paragraph {
+  text-decoration: underline;
+}
+
+.hero-heading {
+  margin-bottom: 20px;
+
+}
+
+.hero-paragraph {
+  margin-bottom: 20px;
+
+}
+
+.hero-button {
+  margin-right: 20px;
+}
+
+.blue-text {
+  color: #0065F2;
+}
+
+.hero-button:hover {
+  background-color: #005fe3;
+}
+
+.hero-button:active {
+  background-color: #0053c7;
+}

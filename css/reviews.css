@@ -1,0 +1,49 @@
+.reviews-section {
+  margin-bottom: 150px;
+}
+
+.reviews-heading {
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.review-card {
+  width: 350px;
+  height: 478px;
+  border: 2px solid #000B1A;
+  border-radius: 10px;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.card-info-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: last baseline;
+}
+
+.social-icons {
+  display: flex;
+}
+
+.facebook {
+  margin-right: 2px;
+}
+
+.card-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.person-photo {
+  margin-bottom: 5px;
+  padding: 0;
+}
+
+.card-small-description {
+  font-size: 14px;
+}

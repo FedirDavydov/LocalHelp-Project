@@ -1,0 +1,42 @@
+.footer {
+  margin-bottom: 50px;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-links {
+  list-style: none;
+}
+
+.footer-links,
+li {
+  display: flex;
+  padding-left: 30px;
+}
+
+.footer-links,
+li:first-child {
+  padding-left: 0;
+}
+
+.socail-media-icons,
+img {
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+  cursor: pointer;
+}
+
+.footer-container {
+  margin-bottom: 30px;
+}
+
+.footer-paragraph {
+  text-align: center;
+  font-size: 14px;
+  color: rgb(194, 194, 194);
+}

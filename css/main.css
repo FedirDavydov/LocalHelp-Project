@@ -1,0 +1,61 @@
+@import url('general-sans.css');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'GeneralSans-Medium', sans-serif;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+li,
+a {
+  text-decoration: none;
+  color: black;
+}
+
+button {
+  background-color: #0065F2;
+  color: white;
+  padding: 15px 30px;
+  border-radius: 5px;
+  border: none;
+  font-family: 'GeneralSans-Semibold', sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #005fe3;
+}
+
+button:active {
+  background-color: #0053c7;
+}
+
+
+h1 {
+  font-weight: 'GeneralSans-Semibold';
+  font-size: 56px;
+  line-height: 1.3;
+}
+
+h2 {
+  font-weight: 'GeneralSans-Semibold';
+  font-size: 40px;
+}
+
+h3 {
+  font-weight: 'GeneralSans-Semibold';
+  font-size: 24px;
+}
+
+p {
+  font-weight: 'GeneralSans-Medium' 0;
+  font-size: 18px;
+}
